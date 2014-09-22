@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HellsCore Kernel Updater</string>
+    <string name="version">Versione</string>
+
+    <string name="field_downloaded">Downloaded</string>
+
+    <string name="message_pleaseWait">Attendere Prego …</string>
+
+    <string name="title_downloading">Download in corso …</string>
+    <string name="field_filesize">Dimensione file</string>
+    <string name="filed_filename">Nome File</string>
+
+</resources>
