@@ -3,7 +3,6 @@
 <!-- Translated by Massimiliano Montaleone -->
 
 <resources>
-
     <string name="app_name">HellsCore U2D</string>
     <string name="version">Versione</string>
     <string name="action_refresh">Aggiorna</string>
@@ -22,7 +21,7 @@
     <string name="dialog_title_changelog">Changelog</string>
     <string name="dialog_title_readyToInstall">Pronto per l\'istallazione</string>
     <string name="dialog_title_md5mismatch">MD5 non corrispondente</string>
-    <string name="dialog_title_rootFail">Richiesto il Root</string>
+    <string name="dialog_title_rootFail">Richiesta di Root</string>
 
     <string name="dialog_content_about">Sviluppato da %1$s</string>
 
@@ -65,7 +64,7 @@
     <string name="settings_checkbox_useAndroidDM">Usa l\'applcazione Download</string>
     <string name="settings_btn_downloadLocation">Percorso Download</string>
     <string name="settings_btn_staticFilename">Nome del file statico</string>
-    <string name="settings_btn_receiveBeta">Receive test builds</string>
+    <string name="settings_btn_receiveBeta">Richiedi la versione Beta</string>
     <string name="settings_btn_updateSource">Aggiorna il codice</string>
     <string name="settings_btn_romBase">La tua ROM è basata su AOSP, CM o MIUI?</string>
 
@@ -77,7 +76,7 @@
     <string name="prompt_md5mismatch">Il kernel è stato scaricato con successo. Tuttavia MD5 non corrisponde al file originale.\n\nOriginal:%1$s\nCalculated:%2$s</string>
     <string name="prompt_rootFail">Accesso root negato\nVuoi continuare a scaricare gli aggiornamenti del kernel attraverso l\'app ma senza root non si puà installare.\nControlla l\'app con il superuser.</string>
     <string name="prompt_romBase">Che tipo di ROM avete (AOSP/Cyanogenmod/MIUI)?</string>
-    <string name="prompt_android_version">What version of Android are you using?</string>
+    <string name="prompt_android_version">Quale versione di Android stai usando?</string>
     <string name="prompt_blankDefault">Lasciare in bianco per impostazione predefinita</string>
     <string name="prompt_zipExtension">Non dimenticate di aggiungere l\'estensione .zip al file</string>
 
