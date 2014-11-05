@@ -56,6 +56,9 @@
     <string name="btn_install">Riavvia e installa</string>
     <string name="btn_installAnyway">Installa comunque</string>
     <string name="btn_downloadAgain">Scarica di nuovo</string>
+    <string name="msg_updateRequired">Si prega di aggiornare l\'applicazione alla versione più recente dal Play Store</string>
+    <string name="msgTitle_versionObs">Versione obsoleta</string>
+    
 
     <string name="settings_category_backgroundCheck">ATTIVA IN BACKGROUND</string>
     <string name="settings_category_downloads">DOWNLOADS</string>
