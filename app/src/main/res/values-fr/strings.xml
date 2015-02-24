@@ -49,10 +49,10 @@
     <string name="msg_invalidProxy">Configuration du proxy incorrect</string>
     <string name="msg_troubleProxy">Vous avez des problèmes de connexion ? %1$s > %2$s</string>
 	<string name="msg_updateRequired">Veuillez mettre à jour vers la dernière version de l\'application à partir du Google Play</string>
-    <string name="msgTitle_versionObs">version obsolète</string>
+    <string name="msgTitle_versionObs">Version obsolète</string>
     <string name="msg_textHighlighted">Texte surligné en jaune</string>
     <string name="msg_textNotFound">Rien trouvé</string>
-    <string name="msg_restartApplication">Changes will take effect after restarting the application.</string>
+    <string name="msg_restartApplication">Les changements prendront effet après le redémarrage de l'application.</string>
 
     <string name="btn_whatsNew">Voir les nouveautés</string>
     <string name="btn_getIt">L\'obtenir maintenant</string>
@@ -81,7 +81,7 @@
     <string name="settings_info_useAndroidDM">Utiliser le gestionnaire système intégré pour gérer les téléchargements</string>
     <string name="settings_info_useStaticFilename">Utilisez le même nom de fichier pour tous les téléchargements</string>
 
-    <string name="prompt_install1">Le noyau a été téléchargé avec succès.\ncliquer %1$s pour redémarrer et installer maintenant.\nClick %2$s pour l\'installer ultérieurement.</string>
+    <string name="prompt_install1">Le noyau a été téléchargé avec succès.\ncliquer %1$s pour redémarrer et installer maintenant.\ncliquer %2$s pour l\'installer ultérieurement.</string>
     <string name="prompt_install2">Le fichier du noyau existe déjà avec un md5 correspondant.\nClick %1$s pour redémarrer et installer maintenant.\nClick %2$s pour l\'installer ultérieurement.</string>
     <string name="prompt_md5mismatch">Le noyau a été téléchargé avec succès. Cependant le hash MD5 ne correspond pas au fichier d\'origine.\n\nOriginal : %1$s\ncalculé : %2$s</string>
     <string name="prompt_rootFail">Impossible d\'obtenir un accès root.\nVous pouvez continuer et télécharger les mises à jour du noyau via l\'application mais l\'installation du noyau ne fonctionnera pas sans Root.\nVeuillez vérifier votre application SuperSU ou Superuser.</string>
@@ -89,5 +89,4 @@
     <string name="prompt_android_version">Quelle est la version d\'Android que vous utilisez ?</string>
     <string name="prompt_blankDefault">Laisser le vide par défaut</string>
     <string name="prompt_zipExtension">N\'oubliez pas d\'ajouter l\'extension de fichier .zip</string>
-
 </resources>
